@@ -28,8 +28,3 @@ b=1;
 end 
 endmodule 
 
-module orgate(a,b,c);
-input a,b;
-output c;
-assign c=a|b;
-endmodule
